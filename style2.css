@@ -5,7 +5,7 @@ h2 { text-align: center; color: black; }
 div { 
 position:fixed;
 center:0;
-left:3;
+left:30;
 width:200px;
 border:1px  solid #73AD21;
 }
@@ -16,6 +16,13 @@ margin:0;
 max-width:70%;
 text-align:justify;
 }
+form {position:absolute ;
+top:120px;
+right:0px;
+width:200px;
+height:100px;
+}
+
 body { background-color:grey;}
 
 
