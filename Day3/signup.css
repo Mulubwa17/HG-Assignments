@@ -6,7 +6,8 @@ body{
   width:100%; 
   text-align:center;
   margin: 20px 0px 20px 0px;  
-background-color: grey; 
+background-color: grey;
+background-image:url(banner-codetober.jpg)  
 }
 
 .text{
@@ -42,4 +43,10 @@ background-color: grey;
   margin-top:10px;
   font-size:1em;
   border-radius:4px;
+}
+.form { position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0
 }

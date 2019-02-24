@@ -5,7 +5,8 @@ body{
   width:100%; 
   text-align:center;
   margin: 20px 0px 20px 0px;  
-background-color: grey; 
+background-color: grey;
+background-image:url(banner-codetober.jpg) 
 }
 
 p{
@@ -24,8 +25,13 @@ h1{
   width:300px;
   border-radius:6px;
   margin: 0 auto 0 auto;
-  padding:0px 0px 70px 0px;
+  padding:20px 0px 50px 0px;
   border: #2980b9 4px solid; 
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 .email{
