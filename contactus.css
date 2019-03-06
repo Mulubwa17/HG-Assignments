@@ -1,0 +1,14 @@
+.form-all {
+background: url(bg4.jpg) no-repeat top left;
+}
+
+ body, html {
+background: url(bg4.jpg) no-repeat top left fixed #f0e9d6;
+color: #FFFFFF;
+margin: 0;
+padding: 0;
+
+}
+
+
+
